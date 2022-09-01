@@ -1,1 +1,1 @@
-Delete the directory /tmp/my_first_directory
+Script that lists all files(even oneswith names beginning with a period character, which are normally hidden) in the current directory an the parent of the working directory and the /boot directory, in this format
