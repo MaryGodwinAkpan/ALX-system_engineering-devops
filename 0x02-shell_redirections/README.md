@@ -1,1 +1,1 @@
-Confused Smiley
+Hide this word
