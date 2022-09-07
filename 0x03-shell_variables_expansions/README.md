@@ -1,1 +1,1 @@
-Local Variables
+Script that creates local variable
