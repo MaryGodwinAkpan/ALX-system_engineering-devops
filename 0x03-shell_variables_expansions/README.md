@@ -1,1 +1,1 @@
-3 Paths
+Global Variables
