@@ -1,1 +1,1 @@
-Divide and Rule
+Binary to Decimal
