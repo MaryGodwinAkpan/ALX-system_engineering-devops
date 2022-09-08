@@ -1,1 +1,1 @@
-Acrostic
+Letter Only
